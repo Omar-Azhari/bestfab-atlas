@@ -22,7 +22,7 @@
 
 ## How it was built
 
-I built it with an AI coding assistant for the first version, then set up a Vitest suite that checks the takeoff, pricing, cutting lists, nesting, QA register, audit trail and more before each deploy, plus stress tests on buildings up to 43,000 parts.
+I built BESTFAB Atlas myself, from the 3D viewer and IFC loader to the estimating, workshop and QA tools. I used AI coding tools to speed up the first version, then set up a Vitest suite that checks the takeoff, pricing, cutting lists, nesting, QA register, audit trail and more before each deploy, plus stress tests on buildings up to 43,000 parts.
 
 ## Source code
 
